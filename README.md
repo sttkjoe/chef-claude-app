@@ -1,16 +1,9 @@
-# React + Vite
+# Chef Claude App
+This web application accepts the ingredients you have on hand as an input and uses AI to provide you with the most suitable dish you can make with the ingredients you entered.
+This was made for experimenting with AI and conditional rendering.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Vercel app deployment: https://chef-claude-app-rho.vercel.app/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1145" height="861" alt="Screenshot 2025-10-26 030817" src="https://github.com/user-attachments/assets/b9b81da9-fb86-40b1-b577-732f970190bd" />
+<img width="1145" height="866" alt="Screenshot 2025-10-26 030840" src="https://github.com/user-attachments/assets/1afa6e98-a20e-45fb-85a8-afa009d615a1" />
+<img width="1130" height="870" alt="Screenshot 2025-10-26 030914" src="https://github.com/user-attachments/assets/60bcb3e0-576e-4843-92aa-e3fd3e9f5eca" />
