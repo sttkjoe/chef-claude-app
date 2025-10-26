@@ -1,5 +1,6 @@
 # Chef Claude App
 This web application accepts the ingredients you have on hand as an input and uses AI to provide you with the most suitable dish you can make with the ingredients you entered.
+
 This was made for experimenting with AI and conditional rendering.
 
 Vercel app deployment: https://chef-claude-app-rho.vercel.app/
